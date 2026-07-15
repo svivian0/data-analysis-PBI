@@ -25,7 +25,6 @@ Um dos pontos mais importantes do projeto foi garantir que as diferentes tabelas
 
 ![Campos e Tabelas](./img/Captura%20de%20tela%202026-07-15%20145209.png)
 
-*   **dCalendario:** Uma tabela de datas auxiliar, fundamental para garantir o funcionamento correto de filtros de tempo e funções de inteligência de tempo (Time Intelligence) no DAX.
 
 ### Como a "conversa" entre as tabelas foi criada (Relacionamentos):
 Para que os filtros aplicados funcionem em todo o relatório, configuramos os **Relacionamentos** na guia de *Exibição de Modelo* do Power BI. A estrutura final do modelo ficou assim:
